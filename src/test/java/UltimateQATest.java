@@ -36,4 +36,9 @@ public class UltimateQATest extends BaseUITest {
         Assertions.assertEquals("Thanks for contacting us", thanksForContactingUsText.getText());
     }
 
+    @Test
+    public void testFour() {
+
+    }
+
 }
